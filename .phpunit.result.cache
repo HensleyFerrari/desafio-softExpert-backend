@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RouteTest::testGetAllProducts":7,"RouteTest::testAddProduct":7,"RouteTest::testGetProduct":8,"RouteTest::testUpdateProduct":8,"RouteTest::testDeleteProduct":8},"times":{"RouteTest::testGetAllProducts":0.034,"RouteTest::testAddProduct":0.005,"RouteTest::testGetProduct":0.031,"RouteTest::testUpdateProduct":0.002,"RouteTest::testDeleteProduct":0.002}}
